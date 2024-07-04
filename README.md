@@ -12,7 +12,7 @@
 2. Individual disable button
    > You can disable if you dont want some of 3 executables.
 4. Individual delay time
-   > delay starts when the Start button is activated, the others will only start after the start of the following executables.
+   > the delay starts when the Start button is activated, the rest will only start after the following executables.
 6. Save all information function (Checkbox)
 7. Auto-start function (Checkbox)
    > Automatic start when starting the program.
